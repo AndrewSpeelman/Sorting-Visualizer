@@ -1,6 +1,6 @@
 {
   "name": "sorting-visualizer",
-  "homepage": "http://AndrewSpeelman.github.io/sorting-visualizer",
+  "homepage": "http://andrewspeelman.github.io/Sorting-Visualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
